@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/antonioLuis23/hitospace.git",
   "author": "Antonio <antonio_luis@outlook.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "did-you-mean": "^0.0.1",
+    "git-commit-msg-linter": "^3.2.8"
+  }
 }
