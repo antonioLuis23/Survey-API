@@ -5,10 +5,8 @@
   "repository": "https://github.com/antonioLuis23/hitospace.git",
   "author": "Antonio <antonio_luis@outlook.com>",
   "license": "MIT",
-  "devDependencies": {},
   "dependencies": {
     "@commitlint/cli": "^13.2.0",
-    "@commitlint/config-conventional": "^13.2.0",
-    "husky": "^7.0.2"
+    "@commitlint/config-conventional": "^13.2.0"
   }
 }
