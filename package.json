@@ -1,0 +1,8 @@
+{
+  "name": "hitospace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/antonioLuis23/hitospace.git",
+  "author": "Antonio <antonio_luis@outlook.com>",
+  "license": "MIT"
+}
