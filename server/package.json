@@ -6,8 +6,5 @@
   "author": "Antonio <antonio_luis@outlook.com>",
   "license": "MIT",
   "devDependencies": {},
-  "dependencies": {
-    "did-you-mean": "^0.0.1",
-    "git-commit-msg-linter": "^3.2.8"
-  }
+  "dependencies": {}
 }
