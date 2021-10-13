@@ -28,7 +28,7 @@
     "husky": "^7.0.2"
   },
   "scripts": {
-    "test": "jest",
+    "test": "jest --watch",
     "test:staged":"jest"
   }
 }
