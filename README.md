@@ -1,2 +1,1 @@
-# hitospace
-Web app that organizes people in categories.
+A poll app made in nodejs using clean code, clean architecture and TDD principles.
