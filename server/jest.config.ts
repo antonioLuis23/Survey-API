@@ -43,6 +43,8 @@ export default {
     '.+\\.ts$': 'ts-jest',
   },
 
+  // A preset that is used as a base for Jest's configuration
+  preset: '@shelf/jest-mongodb',
   // A list of reporter names that Jest uses when writing coverage reports
   // coverageReporters: [
   //   "json",
@@ -101,9 +103,6 @@ export default {
 
   // An enum that specifies notification mode. Requires { notify: true }
   // notifyMode: "failure-change",
-
-  // A preset that is used as a base for Jest's configuration
-  //preset: 'ts-jest',
 
   // Run tests from one or more projects
   // projects: undefined,
