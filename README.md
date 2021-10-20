@@ -1,1 +1,1 @@
-A poll app made in nodejs using clean code, clean architecture and TDD principles.
+A survey app made in nodejs using clean code, clean architecture and TDD principles.
